@@ -1,0 +1,3 @@
+[submodule "web-frontend"]
+	path = web-frontend
+	url = git@github.com:COP4331-LargeGroupProject-Fall22/web-frontend.git
