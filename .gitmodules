@@ -4,3 +4,6 @@
 [submodule "mobile-app"]
 	path = mobile-app
 	url = git@github.com:COP4331-LargeGroupProject-Fall22/mobile-app.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:COP4331-LargeGroupProject-Fall22/backend.git
